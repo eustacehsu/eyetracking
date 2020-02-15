@@ -1,2 +1,2 @@
 # eyetracking
-I did some research with eyetracking
+I did some research using eyetracking
